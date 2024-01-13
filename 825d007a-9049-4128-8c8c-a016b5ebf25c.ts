@@ -197,6 +197,6 @@ export default {
     ocr: undefined,
     ocr_exceptions: {},
   },
-  parser_id: 'automation'
+  parser_id: 'automation',
   path: '825d007a-9049-4128-8c8c-a016b5ebf25c.pdf'
 };
