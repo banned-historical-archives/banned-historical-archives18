@@ -1,6 +1,6 @@
 export default {
     "entity": {
-      "id": "1",
+      "id": "7",
       "name": "从批林批孔运动看“精英”的表演（2010.2.4）",
       "internal": false,
       "official": false,
