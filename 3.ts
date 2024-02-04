@@ -10,7 +10,7 @@ export default {
     },
     "parser_option": {},
     "parser_id": "result-json",
-    "path": "1",
+    "path": "3",
     "resource_type": "book",
     "version": 2
 }
