@@ -1,7 +1,7 @@
 export default {
     "entity": {
-      "id": "8",
-      "name": "深情怀念钱学森同志（2012.1.3）",
+      "id": "ac6ba7cf-69dc-4382-be79-f8ade20eeb18",
+      "name": "谈谈“革”与“保”的问题（2015.3.23）",
       "internal": false,
       "official": false,
       "type": "db",
@@ -10,7 +10,7 @@ export default {
     },
     "parser_option": {},
     "parser_id": "result-json",
-    "path": "8",
+    "path": "ac6ba7cf-69dc-4382-be79-f8ade20eeb18",
     "resource_type": "book",
     "version": 2
 }

@@ -1,7 +1,7 @@
 export default {
     "entity": {
-      "id": "4",
-      "name": "沉痛悼念钱学森同志（2009.10.31）",
+      "id": "8003c15b-d38f-42b9-a30d-f348d3ecea50",
+      "name": "从批林批孔运动看“精英”的表演（2010.2.4）",
       "internal": false,
       "official": false,
       "type": "db",
@@ -10,7 +10,7 @@ export default {
     },
     "parser_option": {},
     "parser_id": "result-json",
-    "path": "4",
+    "path": "8003c15b-d38f-42b9-a30d-f348d3ecea50",
     "resource_type": "book",
     "version": 2
 }

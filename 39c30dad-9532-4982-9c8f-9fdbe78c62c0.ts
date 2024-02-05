@@ -1,7 +1,7 @@
 export default {
     "entity": {
-      "id": "6",
-      "name": "从1974年国庆25周年招待会看前后30年（2015.10.27）",
+      "id": "39c30dad-9532-4982-9c8f-9fdbe78c62c0",
+      "name": "沉痛悼念陶鲁笳同志（2011.5.23）",
       "internal": false,
       "official": false,
       "type": "db",
@@ -10,7 +10,7 @@ export default {
     },
     "parser_option": {},
     "parser_id": "result-json",
-    "path": "6",
+    "path": "39c30dad-9532-4982-9c8f-9fdbe78c62c0",
     "resource_type": "book",
     "version": 2
 }

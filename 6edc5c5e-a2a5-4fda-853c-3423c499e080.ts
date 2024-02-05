@@ -1,7 +1,7 @@
 export default {
     "entity": {
-      "id": "5",
-      "name": "沉痛悼念陶鲁笳同志（2011.5.23）",
+      "id": "6edc5c5e-a2a5-4fda-853c-3423c499e080",
+      "name": "沉痛悼念钱学森同志（2009.10.31）",
       "internal": false,
       "official": false,
       "type": "db",
@@ -10,7 +10,7 @@ export default {
     },
     "parser_option": {},
     "parser_id": "result-json",
-    "path": "5",
+    "path": "6edc5c5e-a2a5-4fda-853c-3423c499e080",
     "resource_type": "book",
     "version": 2
 }
