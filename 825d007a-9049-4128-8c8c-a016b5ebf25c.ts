@@ -194,7 +194,7 @@ export default {
     ]
   }
 ],
-    ocr: undefined,
+    
     ocr_exceptions: {},
   },
   parser_id: 'automation',
